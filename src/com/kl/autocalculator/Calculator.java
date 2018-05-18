@@ -104,7 +104,7 @@ public class Calculator {
                     BigDecimal a1 = new BigDecimal(a);
                     BigDecimal b1 = new BigDecimal(b);
                     if (divide == way)
-                        c = a1.divide(b1).toString();
+                        c = a1.divide(b1,3, BigDecimal.ROUND_HALF_UP).toString();
                     else c = a1.multiply(b1).toString();
                 }
                 else{
@@ -164,6 +164,8 @@ public class Calculator {
                 s = s.substring(0, front) + c + s.substring(behind);
             }
 
+            if(s.indexOf('.')!=-1)
+                s=s.substring(0,s.length()-1);
             return s;
 
         } catch (Exception e) {

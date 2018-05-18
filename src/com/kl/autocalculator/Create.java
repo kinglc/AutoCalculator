@@ -37,12 +37,12 @@ public class Create {
         {
             formula="";
             int j=3;
+            boolean power=false;
+            boolean fraction=false;
             while(j>=0)
             {
                 int num =(int)(Math.random()*4000);
                 boolean flag=true;
-                boolean power=false;
-                boolean divide=false;
                 for(int k=0;k<4*(i+1);k++)
                 {
                     if(num==done[k])
@@ -55,16 +55,14 @@ public class Create {
                 {
                     formula=formula+num;
                     if(j>0) {
-                        if (num % 6 == 5) power = true;
-                        if(num%6==4&&(power||divide)) {
-                            formula = formula + symbol[num % 6 - 1];
-                            power=false;
-                        }
+                        if (num % 6 == 5)//乘方
+                            power = true;
+                        if(num%6==4&&(power||fraction)) //乘方分数
+                            formula = formula + symbol[(num % 6) - 1];
                         else
                         {
-                            formula = formula + symbol[num % 6];
-                            if(num%6==4&&divide==false)divide=true;
-                            power=false;
+                                if(num%6==4&&!fraction)fraction=true;
+                                formula = formula + symbol[num % 6];
                         }
                     }
                     j--;
