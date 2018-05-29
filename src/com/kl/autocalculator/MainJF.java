@@ -43,14 +43,21 @@ public class MainJF extends JFrame{
 
     }
 
+<<<<<<< HEAD
     public MainJF() throws IOException {
+=======
+    public MainJF() {
+>>>>>>> d3cd08c15d3b1bc9999f9cfd707a90f7338d8fae
         Container container = getContentPane();
         getContentPane().setLayout(new FlowLayout(1, 70, 25));//居中对齐，横纵间距30
         setTitle("四则运算闯关游戏");
 
         JLabel jlscore = new JLabel("得分：" + score);//得分
         jlscore.setFont(new java.awt.Font("Dialog", 1, 25));
+<<<<<<< HEAD
         jllife.setFont(new java.awt.Font("Dialog", 1, 25));
+=======
+>>>>>>> d3cd08c15d3b1bc9999f9cfd707a90f7338d8fae
 
 
         JTextField jt = new JTextField();//输入框
@@ -129,6 +136,7 @@ public class MainJF extends JFrame{
                             time = 20;
                             jlscore.setText("得分" + score);
                             int i = score;
+<<<<<<< HEAD
                         }
                         else {
                             jltime.setText("20");
@@ -136,6 +144,27 @@ public class MainJF extends JFrame{
                             life--;
                             jllife.setText("生命："+life);
                             JOptionPane.showMessageDialog(null, answer, "正确答案", JOptionPane.INFORMATION_MESSAGE);
+=======
+                            String formula = null;
+                            try {
+                                FileReader freader = new FileReader("formula.txt");
+                                BufferedReader reader = new BufferedReader(freader);
+                                while ((formula = reader.readLine()) != null) {
+                                    i--;
+                                    if (i == 0)
+                                        break;
+                                }
+                            } catch (FileNotFoundException e1) {
+                                e1.printStackTrace();
+                            } catch (IOException e1) {
+                                e1.printStackTrace();
+                            }
+                            jlformula.setText(formula);
+                        } else {
+                            jltime.setText("20");
+                            time = 20;
+                            JOptionPane.showMessageDialog(null, answer, "正确答案", JOptionPane.ERROR_MESSAGE);
+>>>>>>> d3cd08c15d3b1bc9999f9cfd707a90f7338d8fae
                         }
                         if(life==0)
                             end();

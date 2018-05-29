@@ -42,6 +42,7 @@ public class Create {
             boolean fraction=false;
             while(j>=0)
             {
+<<<<<<< HEAD
                 int num =(int)(Math.random()*500+1);
                 formula=formula+num;
                     if(j>0) {
@@ -65,6 +66,30 @@ public class Create {
                             power=false;
                             formula="";
                             j=3;
+=======
+                int num =(int)(Math.random()*4000);
+                boolean flag=true;
+                for(int k=0;k<4*(i+1);k++)
+                {
+                    if(num==done[k])
+                    {
+                        flag=false;
+                        break;
+                    }
+                }
+                if(flag)
+                {
+                    formula=formula+num;
+                    if(j>0) {
+                        if (num % 6 == 5)//乘方
+                            power = true;
+                        if(num%6==4&&(power||fraction)) //乘方分数
+                            formula = formula + symbol[(num % 6) - 1];
+                        else
+                        {
+                                if(num%6==4&&!fraction)fraction=true;
+                                formula = formula + symbol[num % 6];
+>>>>>>> d3cd08c15d3b1bc9999f9cfd707a90f7338d8fae
                         }
                     }
             }

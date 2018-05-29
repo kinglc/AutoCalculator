@@ -4,7 +4,10 @@
     <list default="true" id="4183d8bb-a543-4e96-8554-2fe54d2f399a" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/AutoCalculator/com/kl/autocalculator/Calculator.class" afterPath="$PROJECT_DIR$/out/production/AutoCalculator/com/kl/autocalculator/Calculator.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/AutoCalculator/com/kl/autocalculator/Create.class" afterPath="$PROJECT_DIR$/out/production/AutoCalculator/com/kl/autocalculator/Create.class" />
+<<<<<<< HEAD
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/AutoCalculator/com/kl/autocalculator/Fraction.class" afterPath="$PROJECT_DIR$/out/production/AutoCalculator/com/kl/autocalculator/Fraction.class" />
+=======
+>>>>>>> d3cd08c15d3b1bc9999f9cfd707a90f7338d8fae
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/AutoCalculator/com/kl/autocalculator/MainJF$1.class" afterPath="$PROJECT_DIR$/out/production/AutoCalculator/com/kl/autocalculator/MainJF$1.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/AutoCalculator/com/kl/autocalculator/MainJF$2.class" afterPath="$PROJECT_DIR$/out/production/AutoCalculator/com/kl/autocalculator/MainJF$2.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/AutoCalculator/com/kl/autocalculator/MainJF.class" afterPath="$PROJECT_DIR$/out/production/AutoCalculator/com/kl/autocalculator/MainJF.class" />
@@ -12,7 +15,10 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/formula.txt" afterPath="$PROJECT_DIR$/formula.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/kl/autocalculator/Calculator.java" afterPath="$PROJECT_DIR$/src/com/kl/autocalculator/Calculator.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/kl/autocalculator/Create.java" afterPath="$PROJECT_DIR$/src/com/kl/autocalculator/Create.java" />
+<<<<<<< HEAD
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/kl/autocalculator/Fraction.java" afterPath="$PROJECT_DIR$/src/com/kl/autocalculator/Fraction.java" />
+=======
+>>>>>>> d3cd08c15d3b1bc9999f9cfd707a90f7338d8fae
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/kl/autocalculator/MainJF.java" afterPath="$PROJECT_DIR$/src/com/kl/autocalculator/MainJF.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -28,6 +34,7 @@
       <file leaf-file-name="Calculator.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/kl/autocalculator/Calculator.java">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state relative-caret-position="4025">
               <caret line="175" column="0" lean-forward="false" selection-start-line="175" selection-start-column="0" selection-end-line="175" selection-end-column="0" />
               <folding />
@@ -40,38 +47,64 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="920">
               <caret line="40" column="32" lean-forward="false" selection-start-line="40" selection-start-column="32" selection-end-line="40" selection-end-column="32" />
+=======
+            <state relative-caret-position="2829">
+              <caret line="166" column="32" lean-forward="true" selection-start-line="166" selection-start-column="32" selection-end-line="166" selection-end-column="32" />
+>>>>>>> d3cd08c15d3b1bc9999f9cfd707a90f7338d8fae
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Create.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Create.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/kl/autocalculator/Create.java">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state relative-caret-position="483">
               <caret line="32" column="9" lean-forward="true" selection-start-line="32" selection-start-column="9" selection-end-line="32" selection-end-column="9" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+=======
+            <state relative-caret-position="308">
+              <caret line="62" column="25" lean-forward="true" selection-start-line="62" selection-start-column="25" selection-end-line="62" selection-end-column="25" />
+              <folding />
+>>>>>>> d3cd08c15d3b1bc9999f9cfd707a90f7338d8fae
             </state>
           </provider>
         </entry>
       </file>
+<<<<<<< HEAD
       <file leaf-file-name="score.txt" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/score.txt">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+=======
+      <file leaf-file-name="formula.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/formula.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="161">
+              <caret line="25" column="19" lean-forward="true" selection-start-line="25" selection-start-column="19" selection-end-line="25" selection-end-column="19" />
+>>>>>>> d3cd08c15d3b1bc9999f9cfd707a90f7338d8fae
               <folding />
             </state>
           </provider>
         </entry>
       </file>
+<<<<<<< HEAD
       <file leaf-file-name="MainJF.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/kl/autocalculator/MainJF.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="384">
               <caret line="110" column="58" lean-forward="false" selection-start-line="110" selection-start-column="58" selection-end-line="110" selection-end-column="58" />
+=======
+      <file leaf-file-name="MainJF.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/kl/autocalculator/MainJF.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="410">
+              <caret line="40" column="43" lean-forward="true" selection-start-line="40" selection-start-column="43" selection-end-line="40" selection-end-column="43" />
+>>>>>>> d3cd08c15d3b1bc9999f9cfd707a90f7338d8fae
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -98,11 +131,14 @@
       </list>
     </option>
   </component>
+<<<<<<< HEAD
   <component name="FindInProjectRecents">
     <findStrings>
       <find>input</find>
     </findStrings>
   </component>
+=======
+>>>>>>> d3cd08c15d3b1bc9999f9cfd707a90f7338d8fae
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -115,13 +151,21 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="D:/../androidProject/WatermelonCalculator-master/app/src/main/java/com/example/xi/watermeloncalculator/Calculate.java" />
+<<<<<<< HEAD
+=======
+        <option value="$PROJECT_DIR$/src/com/kl/autocalculator/Fraction.java" />
+>>>>>>> d3cd08c15d3b1bc9999f9cfd707a90f7338d8fae
         <option value="$PROJECT_DIR$/src/com/kl/autocalculator/CountDown.java" />
         <option value="$PROJECT_DIR$/src/com/kl/autocalculator/Fraction.java" />
         <option value="$PROJECT_DIR$/formula.txt" />
         <option value="$PROJECT_DIR$/src/com/kl/autocalculator/Calculator.java" />
+<<<<<<< HEAD
         <option value="$PROJECT_DIR$/src/com/kl/autocalculator/Create.java" />
         <option value="$PROJECT_DIR$/score.txt" />
+=======
+>>>>>>> d3cd08c15d3b1bc9999f9cfd707a90f7338d8fae
         <option value="$PROJECT_DIR$/src/com/kl/autocalculator/MainJF.java" />
+        <option value="$PROJECT_DIR$/src/com/kl/autocalculator/Create.java" />
       </list>
     </option>
   </component>
@@ -175,10 +219,17 @@
           <select />
         </subPane>
       </pane>
+<<<<<<< HEAD
       <pane id="Scratches" />
       <pane id="PackagesPane" />
       <pane id="AndroidView" />
       <pane id="Scope" />
+=======
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="Scratches" />
+      <pane id="AndroidView" />
+>>>>>>> d3cd08c15d3b1bc9999f9cfd707a90f7338d8fae
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -327,6 +378,7 @@
       <workItem from="1526543728236" duration="3599000" />
       <workItem from="1526549573109" duration="130000" />
       <workItem from="1526608520595" duration="1321000" />
+<<<<<<< HEAD
       <workItem from="1526612405146" duration="684000" />
       <workItem from="1527485198926" duration="3986000" />
       <workItem from="1527489251257" duration="379000" />
@@ -337,11 +389,17 @@
       <workItem from="1527577915013" duration="5167000" />
       <workItem from="1527583132179" duration="245000" />
       <workItem from="1527583630916" duration="495000" />
+=======
+>>>>>>> d3cd08c15d3b1bc9999f9cfd707a90f7338d8fae
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
+<<<<<<< HEAD
     <option name="totallyTimeSpent" value="65972000" />
+=======
+    <option name="totallyTimeSpent" value="41812000" />
+>>>>>>> d3cd08c15d3b1bc9999f9cfd707a90f7338d8fae
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
@@ -353,10 +411,17 @@
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+<<<<<<< HEAD
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.43907794" sideWeight="0.5125" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3227633" sideWeight="0.47708333" order="2" side_tool="false" content_ui="tabs" />
+=======
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3238958" sideWeight="0.50208336" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3238958" sideWeight="0.49791667" order="2" side_tool="false" content_ui="tabs" />
+>>>>>>> d3cd08c15d3b1bc9999f9cfd707a90f7338d8fae
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -367,7 +432,11 @@
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+<<<<<<< HEAD
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3714609" sideWeight="0.4875" order="3" side_tool="false" content_ui="tabs" />
+=======
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.44017562" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+>>>>>>> d3cd08c15d3b1bc9999f9cfd707a90f7338d8fae
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -392,6 +461,7 @@
           <option name="timeStamp" value="74" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
+<<<<<<< HEAD
           <url>file://$PROJECT_DIR$/src/com/kl/autocalculator/Create.java</url>
           <line>62</line>
           <properties />
@@ -411,6 +481,21 @@
         </line-breakpoint>
       </breakpoints>
       <option name="time" value="83" />
+=======
+          <url>file://$PROJECT_DIR$/src/com/kl/autocalculator/Calculator.java</url>
+          <line>73</line>
+          <properties />
+          <option name="timeStamp" value="57" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/kl/autocalculator/Calculator.java</url>
+          <line>102</line>
+          <properties />
+          <option name="timeStamp" value="59" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="60" />
+>>>>>>> d3cd08c15d3b1bc9999f9cfd707a90f7338d8fae
     </breakpoint-manager>
     <watches-manager>
       <configuration name="Application">
@@ -609,6 +694,84 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/kl/autocalculator/Calculator.java">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3887">
+          <caret line="169" column="0" lean-forward="false" selection-start-line="169" selection-start-column="0" selection-end-line="169" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/kl/autocalculator/Create.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="19" column="31" lean-forward="true" selection-start-line="19" selection-start-column="31" selection-end-line="19" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/kl/autocalculator/MainJF.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="736">
+          <caret line="32" column="0" lean-forward="true" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/kl/autocalculator/Calculator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3841">
+          <caret line="167" column="0" lean-forward="true" selection-start-line="167" selection-start-column="0" selection-end-line="167" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/kl/autocalculator/MainJF.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1265">
+          <caret line="55" column="0" lean-forward="true" selection-start-line="55" selection-start-column="0" selection-end-line="55" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/kl/autocalculator/Create.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1403">
+          <caret line="61" column="25" lean-forward="true" selection-start-line="61" selection-start-column="25" selection-end-line="61" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/kl/autocalculator/Calculator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1219">
+          <caret line="53" column="32" lean-forward="false" selection-start-line="53" selection-start-column="32" selection-end-line="53" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/kl/autocalculator/Create.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="13" column="0" lean-forward="true" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/kl/autocalculator/MainJF.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2047">
+          <caret line="93" column="0" lean-forward="true" selection-start-line="93" selection-start-column="0" selection-end-line="93" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/kl/autocalculator/Calculator.java">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1219">
           <caret line="53" column="32" lean-forward="false" selection-start-line="53" selection-start-column="32" selection-end-line="53" selection-end-column="32" />
           <folding />
@@ -629,9 +792,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1242">
           <caret line="54" column="17" lean-forward="true" selection-start-line="54" selection-start-column="17" selection-end-line="54" selection-end-column="17" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -657,9 +818,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="414">
           <caret line="18" column="32" lean-forward="true" selection-start-line="18" selection-start-column="32" selection-end-line="18" selection-end-column="32" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -675,9 +834,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="184">
           <caret line="10" column="21" lean-forward="false" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -695,9 +852,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="230">
           <caret line="10" column="5" lean-forward="true" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -756,39 +911,65 @@
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/formula.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+=======
+    <entry file="jar://D:/JDK/src.zip!/javax/swing/plaf/basic/BasicButtonListener.java" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/360zip$Temp/360$2/MainJF.class" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/360zip$Temp/360$3/MainJF$1.class" />
+    <entry file="file://$PROJECT_DIR$/formula.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="25" column="19" lean-forward="true" selection-start-line="25" selection-start-column="19" selection-end-line="25" selection-end-column="19" />
+>>>>>>> d3cd08c15d3b1bc9999f9cfd707a90f7338d8fae
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/score.txt">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+=======
+        <state relative-caret-position="2829">
+          <caret line="166" column="32" lean-forward="true" selection-start-line="166" selection-start-column="32" selection-end-line="166" selection-end-column="32" />
+>>>>>>> d3cd08c15d3b1bc9999f9cfd707a90f7338d8fae
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/kl/autocalculator/Create.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="483">
-          <caret line="32" column="9" lean-forward="true" selection-start-line="32" selection-start-column="9" selection-end-line="32" selection-end-column="9" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/kl/autocalculator/MainJF.java">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
+        <state relative-caret-position="483">
+          <caret line="32" column="9" lean-forward="true" selection-start-line="32" selection-start-column="9" selection-end-line="32" selection-end-column="9" />
+=======
+        <state relative-caret-position="410">
+          <caret line="40" column="43" lean-forward="true" selection-start-line="40" selection-start-column="43" selection-end-line="40" selection-end-column="43" />
+>>>>>>> d3cd08c15d3b1bc9999f9cfd707a90f7338d8fae
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/kl/autocalculator/Create.java">
+      <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="384">
           <caret line="110" column="58" lean-forward="false" selection-start-line="110" selection-start-column="58" selection-end-line="110" selection-end-column="58" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+=======
+        <state relative-caret-position="308">
+          <caret line="62" column="25" lean-forward="true" selection-start-line="62" selection-start-column="25" selection-end-line="62" selection-end-column="25" />
+          <folding />
+>>>>>>> d3cd08c15d3b1bc9999f9cfd707a90f7338d8fae
         </state>
       </provider>
     </entry>
