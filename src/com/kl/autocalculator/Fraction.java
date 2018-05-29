@@ -43,7 +43,7 @@ public class Fraction {
         return reduction(ans);
     }
 
-    public String multiply(Fraction f)
+    public String divide(Fraction f)
     {
         Fraction ans=new Fraction();
         ans.deno=this.deno*f.nume;
@@ -51,7 +51,7 @@ public class Fraction {
         return reduction(ans);
     }
 
-    public String divide(Fraction f)
+    public String multiply(Fraction f)
     {
         Fraction ans=new Fraction();
         ans.deno=this.deno*f.deno;

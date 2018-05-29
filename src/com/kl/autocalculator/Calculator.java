@@ -33,6 +33,7 @@ public class Calculator {
             }
 
             while (s.indexOf("^") != -1 || s.indexOf("**") != -1) {//乘方
+                String front;
                 int mul = (s.indexOf("^") + s.indexOf("**"));
                 int num = mul++;
                 while (num > 0) {
@@ -40,7 +41,10 @@ public class Calculator {
                         break;
                     num--;
                 }
-                String a = s.substring(num + 1, mul);//底数
+                if(num!=0)
+                    num++;
+                String a = s.substring(num, mul);//底数
+                front=s.substring(0,num);
                 num = mul + power_form;
                 while (num < s.length()) {
                     if (s.charAt(num) == '+' || s.charAt(num) == '-' || s.charAt(num) == '*' || s.charAt(num) == '÷')
@@ -67,7 +71,7 @@ public class Calculator {
                         ans = ans.multiply(a1);
                     c = "" + ans;
                 }
-                s = s.substring(0, mul - 1) + c + s.substring(mul + 1 + power_form);
+                s = front + c + s.substring(mul + 1 + power_form);
             }
 
 
@@ -104,7 +108,7 @@ public class Calculator {
                     BigDecimal a1 = new BigDecimal(a);
                     BigDecimal b1 = new BigDecimal(b);
                     if (divide == way)
-                        c = a1.divide(b1).toString();
+                        c = a1.divide(b1,3, BigDecimal.ROUND_HALF_UP).toString();
                     else c = a1.multiply(b1).toString();
                 }
                 else{
@@ -164,10 +168,12 @@ public class Calculator {
                 s = s.substring(0, front) + c + s.substring(behind);
             }
 
+            if(s.indexOf('.')!=-1)
+                s=s.substring(0,s.length()-1);
             return s;
 
         } catch (Exception e) {
-            return "计算部分出错";
+            return "wrong!";
         }
     }
 }
